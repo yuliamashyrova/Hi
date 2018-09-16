@@ -4,6 +4,7 @@ public class Str {
         System.out.println("Hi!");
         System.out.println("Hi!");
         System.out.println("Hi!");
+        System.out.println();
     }
 
 
